@@ -1,0 +1,100 @@
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li.navbar {
+  float: left;
+}
+
+li a.navbar {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a.navbar:hover {
+  background-color: #111;
+}
+
+img.hoan {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: aliceblue;
+    padding: 5px;
+}
+h1.home {
+    text-align: center;
+    background-color: #FFC52F;
+    margin: 20px;
+    padding: 10px;
+}
+body.home {
+    background-color: #0077C0;
+}
+
+h2.home{
+    text-align: center;
+    padding: 5px;
+    font-size: 15px;
+}
+div.home{
+    background-color: aliceblue;
+    margin: 20px;
+    margin-left: 145px;
+    margin-right: 145px;
+    padding: 3px;
+}
+
+img.art {
+    float: right;
+    display: grid;
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 0;
+}
+
+p.museum{
+    margin: 20px;
+    padding: 10px;
+    background-color: aliceblue;
+    display:grid;
+    font-size: 25px;
+}
+a.link1{
+    display:inherit;
+    font-style: italic;
+}
+img.sport {
+    max-width: 50%;
+    margin-right: 25px;
+    margin-left: 15;
+    padding: 5px;
+    display: grid;
+    float: right;
+    background-color: aliceblue;
+}
+div.sports{
+    background-color: aliceblue;
+    margin: 25px;
+    margin-top: 2px;
+    padding: 5px;
+    display: grid;
+    font-size: 20px;
+    max-width: 550px
+}
+
+h4.sports {
+    padding-bottom: none;
+    display: grid;
+}
+
+
